@@ -2,74 +2,303 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://satcopindia2009.github.io/smartbus-preview/</loc>
-		<lastmod>2026-10-10T07:40:15+00:00</lastmod>
+		<lastmod>2026-10-10T07:53:52+00:00</lastmod>
 		<image:image>
-			<image:loc>https://satcopindia2009.github.io/smartbus-preview/wp-content/uploads/2026/10/smart-school-bus-3d.webp</image:loc>
+			<image:loc>https://satcopindia2009.github.io/smartbus-preview/wp-content/uploads/2026/10/smart-bus-fleet-hero.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://satcopindia2009.github.io/smartbus-preview/privacy-policy/</loc>
-		<lastmod>2026-10-10T07:40:15+00:00</lastmod>
+		<lastmod>2026-10-10T07:53:57+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/</loc>
-		<lastmod>2026-10-10T07:40:15+00:00</lastmod>
+		<lastmod>2026-10-10T07:54:16+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://satcopindia2009.github.io/smartbus-preview/smart-school-bus-system/</loc>
-		<lastmod>2026-10-10T07:40:15+00:00</lastmod>
+		<lastmod>2026-10-10T07:54:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://satcopindia2009.github.io/smartbus-preview/wp-content/uploads/2026/10/smart-school-bus-system-devices.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://satcopindia2009.github.io/smartbus-preview/wp-content/uploads/2026/10/smart-school-bus-system-dashboard.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://satcopindia2009.github.io/smartbus-preview/smart-bus-gps-tracking/</loc>
-		<lastmod>2026-10-10T07:40:15+00:00</lastmod>
+		<lastmod>2026-10-10T07:54:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://satcopindia2009.github.io/smartbus-preview/wp-content/uploads/2026/10/smart-bus-gps-tracking-device.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://satcopindia2009.github.io/smartbus-preview/wp-content/uploads/2026/10/smart-bus-gps-tracking-map.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://satcopindia2009.github.io/smartbus-preview/smart-bus-cctv-dashcam/</loc>
-		<lastmod>2026-10-10T07:40:15+00:00</lastmod>
+		<lastmod>2026-10-10T07:54:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://satcopindia2009.github.io/smartbus-preview/wp-content/uploads/2026/10/smart-bus-cctv-dome-camera.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://satcopindia2009.github.io/smartbus-preview/wp-content/uploads/2026/10/smart-bus-cctv-mdvr-dashcam.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://satcopindia2009.github.io/smartbus-preview/wp-content/uploads/2026/10/smart-bus-cctv-camera-view-grid.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://satcopindia2009.github.io/smartbus-preview/smart-bus-rfid-attendance/</loc>
-		<lastmod>2026-10-10T07:40:15+00:00</lastmod>
+		<lastmod>2026-10-10T07:54:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://satcopindia2009.github.io/smartbus-preview/wp-content/uploads/2026/10/smart-bus-rfid-reader-id-card.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://satcopindia2009.github.io/smartbus-preview/wp-content/uploads/2026/10/smart-bus-rfid-attendance-phone-alert.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://satcopindia2009.github.io/smartbus-preview/smart-bus-parent-app/</loc>
-		<lastmod>2026-10-10T07:40:15+00:00</lastmod>
+		<lastmod>2026-10-10T07:54:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://satcopindia2009.github.io/smartbus-preview/wp-content/uploads/2026/10/smart-bus-parent-app-live-map.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://satcopindia2009.github.io/smartbus-preview/wp-content/uploads/2026/10/smart-bus-parent-app-notifications.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://satcopindia2009.github.io/smartbus-preview/smart-bus-panic-sos-alert/</loc>
-		<lastmod>2026-10-10T07:40:15+00:00</lastmod>
+		<lastmod>2026-10-10T07:54:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://satcopindia2009.github.io/smartbus-preview/wp-content/uploads/2026/10/smart-bus-panic-sos-button.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://satcopindia2009.github.io/smartbus-preview/wp-content/uploads/2026/10/smart-bus-sos-control-room-alert.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://satcopindia2009.github.io/smartbus-preview/smart-school-transport-management/</loc>
-		<lastmod>2026-10-10T07:40:15+00:00</lastmod>
+		<lastmod>2026-10-10T07:54:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://satcopindia2009.github.io/smartbus-preview/wp-content/uploads/2026/10/smart-school-transport-management-dashboard.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://satcopindia2009.github.io/smartbus-preview/wp-content/uploads/2026/10/smart-school-transport-management-routes-drivers.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://satcopindia2009.github.io/smartbus-preview/free-smart-bus-safety-audit/</loc>
-		<lastmod>2026-10-10T07:40:15+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-pune/</loc>
-		<lastmod>2026-10-10T07:40:15+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-hyderabad/</loc>
-		<lastmod>2026-10-10T07:40:15+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-mumbai/</loc>
-		<lastmod>2026-10-10T07:40:15+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-bengaluru/</loc>
-		<lastmod>2026-10-10T07:40:15+00:00</lastmod>
+		<lastmod>2026-10-10T07:53:55+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://satcopindia2009.github.io/smartbus-preview/about/</loc>
-		<lastmod>2026-10-10T07:40:15+00:00</lastmod>
+		<lastmod>2026-10-10T07:53:57+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://satcopindia2009.github.io/smartbus-preview/contact/</loc>
-		<lastmod>2026-10-10T07:40:15+00:00</lastmod>
+		<lastmod>2026-10-10T07:53:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-delhi/</loc>
+		<lastmod>2026-10-10T07:53:59+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-mumbai/</loc>
+		<lastmod>2026-10-10T07:53:59+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-bengaluru/</loc>
+		<lastmod>2026-10-10T07:54:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-hyderabad/</loc>
+		<lastmod>2026-10-10T07:54:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-chennai/</loc>
+		<lastmod>2026-10-10T07:54:01+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-kolkata/</loc>
+		<lastmod>2026-10-10T07:54:01+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-pune/</loc>
+		<lastmod>2026-10-10T07:54:01+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-ahmedabad/</loc>
+		<lastmod>2026-10-10T07:54:01+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-jaipur/</loc>
+		<lastmod>2026-10-10T07:54:02+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-lucknow/</loc>
+		<lastmod>2026-10-10T07:54:02+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-surat/</loc>
+		<lastmod>2026-10-10T07:54:03+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-noida/</loc>
+		<lastmod>2026-10-10T07:54:03+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-gurugram/</loc>
+		<lastmod>2026-10-10T07:54:03+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-chandigarh/</loc>
+		<lastmod>2026-10-10T07:54:03+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-indore/</loc>
+		<lastmod>2026-10-10T07:54:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-nagpur/</loc>
+		<lastmod>2026-10-10T07:54:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-bhopal/</loc>
+		<lastmod>2026-10-10T07:54:05+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-kochi/</loc>
+		<lastmod>2026-10-10T07:54:05+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-coimbatore/</loc>
+		<lastmod>2026-10-10T07:54:05+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-visakhapatnam/</loc>
+		<lastmod>2026-10-10T07:54:06+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-bhubaneswar/</loc>
+		<lastmod>2026-10-10T07:54:06+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-ghaziabad/</loc>
+		<lastmod>2026-10-10T07:54:06+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-faridabad/</loc>
+		<lastmod>2026-10-10T07:54:06+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-thane/</loc>
+		<lastmod>2026-10-10T07:54:07+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-navi-mumbai/</loc>
+		<lastmod>2026-10-10T07:54:07+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-nashik/</loc>
+		<lastmod>2026-10-10T07:54:07+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-aurangabad/</loc>
+		<lastmod>2026-10-10T07:54:07+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-vadodara/</loc>
+		<lastmod>2026-10-10T07:54:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-rajkot/</loc>
+		<lastmod>2026-10-10T07:54:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-patna/</loc>
+		<lastmod>2026-10-10T07:54:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-ranchi/</loc>
+		<lastmod>2026-10-10T07:54:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-raipur/</loc>
+		<lastmod>2026-10-10T07:54:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-dehradun/</loc>
+		<lastmod>2026-10-10T07:54:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-ludhiana/</loc>
+		<lastmod>2026-10-10T07:54:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-amritsar/</loc>
+		<lastmod>2026-10-10T07:54:11+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-kanpur/</loc>
+		<lastmod>2026-10-10T07:54:11+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-varanasi/</loc>
+		<lastmod>2026-10-10T07:54:11+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-agra/</loc>
+		<lastmod>2026-10-10T07:54:12+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-prayagraj/</loc>
+		<lastmod>2026-10-10T07:54:12+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-mysuru/</loc>
+		<lastmod>2026-10-10T07:54:12+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-mangaluru/</loc>
+		<lastmod>2026-10-10T07:54:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-madurai/</loc>
+		<lastmod>2026-10-10T07:54:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-tiruchirappalli/</loc>
+		<lastmod>2026-10-10T07:54:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-thiruvananthapuram/</loc>
+		<lastmod>2026-10-10T07:54:14+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-vijayawada/</loc>
+		<lastmod>2026-10-10T07:54:14+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-guwahati/</loc>
+		<lastmod>2026-10-10T07:54:14+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-jabalpur/</loc>
+		<lastmod>2026-10-10T07:54:15+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-gwalior/</loc>
+		<lastmod>2026-10-10T07:54:15+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-jodhpur/</loc>
+		<lastmod>2026-10-10T07:54:15+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://satcopindia2009.github.io/smartbus-preview/cities/smart-school-bus-udaipur/</loc>
+		<lastmod>2026-10-10T07:54:16+00:00</lastmod>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Rank Math SEO Plugin (c) Rank Math - rankmath.com -->
